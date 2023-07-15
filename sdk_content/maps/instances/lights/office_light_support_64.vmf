@@ -1,0 +1,156 @@
+versioninfo
+{
+	"editorversion" "400"
+	"editorbuild" "8973"
+	"mapversion" "2"
+	"formatversion" "100"
+	"prefab" "0"
+}
+visgroups
+{
+}
+viewsettings
+{
+	"bSnapToGrid" "1"
+	"bShowGrid" "1"
+	"bShowLogicalGrid" "0"
+	"nGridSpacing" "8"
+	"bShow3DGrid" "0"
+}
+world
+{
+	"id" "1"
+	"mapversion" "2"
+	"classname" "worldspawn"
+	"detailmaterial" "detail/detailsprites"
+	"detailvbsp" "detail.vbsp"
+	"maxblobcount" "250"
+	"maxpropscreenwidth" "-1"
+	"skyname" "sky_black_nofog"
+}
+entity
+{
+	"id" "31"
+	"classname" "move_rope"
+	"angles" "0 0 0"
+	"barbed" "0"
+	"breakable" "0"
+	"collide" "0"
+	"dangling" "0"
+	"movespeed" "64"
+	"NextKey" "supp_a2"
+	"positioninterpolator" "2"
+	"ropematerial" "cable/cable.vmt"
+	"slack" "1"
+	"spawnflags" "0"
+	"subdiv" "2"
+	"targetname" "supp_a1"
+	"texturescale" "1"
+	"type" "0"
+	"usewind" "0"
+	"width" "2"
+	"origin" "-40 0 64"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 500]"
+	}
+}
+entity
+{
+	"id" "63"
+	"classname" "move_rope"
+	"angles" "0 0 0"
+	"barbed" "0"
+	"breakable" "0"
+	"collide" "0"
+	"dangling" "0"
+	"movespeed" "64"
+	"positioninterpolator" "2"
+	"ropematerial" "cable/cable.vmt"
+	"slack" "1"
+	"spawnflags" "0"
+	"subdiv" "2"
+	"targetname" "supp_a2"
+	"texturescale" "1"
+	"type" "0"
+	"usewind" "0"
+	"width" "2"
+	"origin" "-40 0 0"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 500]"
+	}
+}
+entity
+{
+	"id" "83"
+	"classname" "move_rope"
+	"angles" "0 0 0"
+	"barbed" "0"
+	"breakable" "0"
+	"collide" "0"
+	"dangling" "0"
+	"movespeed" "64"
+	"NextKey" "supp_b2"
+	"positioninterpolator" "2"
+	"ropematerial" "cable/cable.vmt"
+	"slack" "1"
+	"spawnflags" "0"
+	"subdiv" "2"
+	"targetname" "supp_b1"
+	"texturescale" "1"
+	"type" "0"
+	"usewind" "0"
+	"width" "2"
+	"origin" "40 0 64"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 500]"
+	}
+}
+entity
+{
+	"id" "108"
+	"classname" "move_rope"
+	"angles" "0 0 0"
+	"barbed" "0"
+	"breakable" "0"
+	"collide" "0"
+	"dangling" "0"
+	"movespeed" "64"
+	"positioninterpolator" "2"
+	"ropematerial" "cable/cable.vmt"
+	"slack" "1"
+	"spawnflags" "0"
+	"subdiv" "2"
+	"targetname" "supp_b2"
+	"texturescale" "1"
+	"type" "0"
+	"usewind" "0"
+	"width" "2"
+	"origin" "40 0 0"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 500]"
+	}
+}
+cameras
+{
+	"activecamera" "-1"
+}
+cordons
+{
+	"active" "0"
+}

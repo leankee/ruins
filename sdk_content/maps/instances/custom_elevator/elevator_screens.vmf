@@ -1,0 +1,1470 @@
+versioninfo
+{
+	"editorversion" "400"
+	"editorbuild" "8419"
+	"mapversion" "13"
+	"formatversion" "100"
+	"prefab" "0"
+}
+visgroups
+{
+}
+viewsettings
+{
+	"bSnapToGrid" "1"
+	"bShowGrid" "1"
+	"bShowLogicalGrid" "0"
+	"nGridSpacing" "1"
+	"bShow3DGrid" "0"
+}
+world
+{
+	"id" "1"
+	"mapversion" "13"
+	"classname" "worldspawn"
+	"detailmaterial" "detail/detailsprites"
+	"detailvbsp" "detail.vbsp"
+	"maxblobcount" "250"
+	"maxpropscreenwidth" "-1"
+	"skyname" "sky_black_nofog"
+	solid
+	{
+		"id" "1274"
+		side
+		{
+			"id" "48"
+			"plane" "(-64 512 1024) (-64 640 1024) (64 640 1024)"
+			"material" "TOOLS/TOOLSSKIP"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "47"
+			"plane" "(-64 640 -1024) (-64 512 -1024) (64 512 -1024)"
+			"material" "TOOLS/TOOLSSKIP"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "46"
+			"plane" "(-64 512 -1024) (-64 640 -1024) (-64 640 1024)"
+			"material" "TOOLS/TOOLSSKIP"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "45"
+			"plane" "(64 640 -1024) (64 512 -1024) (64 512 1024)"
+			"material" "TOOLS/TOOLSSKIP"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "44"
+			"plane" "(-64 640 -1024) (64 640 -1024) (64 640 1024)"
+			"material" "TOOLS/TOOLSSKIP"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "43"
+			"plane" "(64 512 -1024) (-64 512 -1024) (-64 512 1024)"
+			"material" "TOOLS/TOOLSSKIP"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 152 221"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "1275"
+		side
+		{
+			"id" "54"
+			"plane" "(-64 640 896) (-64 768 896) (64 768 896)"
+			"material" "TOOLS/TOOLSSKIP"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "53"
+			"plane" "(-64 768 768) (-64 640 768) (64 640 768)"
+			"material" "TOOLS/TOOLSSKIP"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "52"
+			"plane" "(-64 640 768) (-64 768 768) (-64 768 896)"
+			"material" "TOOLS/TOOLSSKIP"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "51"
+			"plane" "(64 768 768) (64 640 768) (64 640 896)"
+			"material" "TOOLS/TOOLSSKIP"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "50"
+			"plane" "(-64 768 768) (64 768 768) (64 768 896)"
+			"material" "TOOLS/TOOLSSKIP"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "49"
+			"plane" "(64 640 768) (-64 640 768) (-64 640 896)"
+			"material" "TOOLS/TOOLSSKIP"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 152 221"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "1276"
+		editor
+		{
+			"color" "242 251 0"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+}
+entity
+{
+	"id" "1277"
+	"classname" "vgui_movie_display"
+	"angles" "0 105 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_30"
+	"width" "62"
+	"origin" "91.997 -223.148 16"
+	editor
+	{
+		"color" "242 251 0"
+		"groupid" "1276"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1279"
+	"classname" "vgui_movie_display"
+	"angles" "0 105 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_7"
+	"width" "62"
+	"origin" "91.997 -223.148 144"
+	editor
+	{
+		"color" "242 251 0"
+		"groupid" "1276"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1281"
+	"classname" "vgui_movie_display"
+	"angles" "0 120 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_6"
+	"width" "64"
+	"origin" "147.251 -191.247 144"
+	editor
+	{
+		"color" "242 251 0"
+		"groupid" "1276"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1283"
+	"classname" "vgui_movie_display"
+	"angles" "0 120 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_29"
+	"width" "64"
+	"origin" "147.251 -191.247 16"
+	editor
+	{
+		"color" "242 251 0"
+		"groupid" "1276"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1285"
+	"classname" "vgui_movie_display"
+	"angles" "0 135 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_28"
+	"width" "64"
+	"origin" "191.247 -147.251 16"
+	editor
+	{
+		"color" "242 251 0"
+		"groupid" "1276"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1287"
+	"classname" "vgui_movie_display"
+	"angles" "0 135 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_5"
+	"width" "64"
+	"origin" "191.247 -147.251 144"
+	editor
+	{
+		"color" "242 251 0"
+		"groupid" "1276"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1289"
+	"classname" "vgui_movie_display"
+	"angles" "0 150 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_4"
+	"width" "64"
+	"origin" "223.148 -91.997 144"
+	editor
+	{
+		"color" "242 251 0"
+		"groupid" "1276"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1291"
+	"classname" "vgui_movie_display"
+	"angles" "0 150 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_27"
+	"width" "64"
+	"origin" "223.148 -91.997 16"
+	editor
+	{
+		"color" "242 251 0"
+		"groupid" "1276"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1293"
+	"classname" "vgui_movie_display"
+	"angles" "0 165 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_3"
+	"width" "64"
+	"origin" "239.252 -31.8967 144"
+	editor
+	{
+		"color" "242 251 0"
+		"groupid" "1276"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1295"
+	"classname" "vgui_movie_display"
+	"angles" "0 165 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_26"
+	"width" "64"
+	"origin" "239.252 -31.8967 16"
+	editor
+	{
+		"color" "242 251 0"
+		"groupid" "1276"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1297"
+	"classname" "vgui_movie_display"
+	"angles" "0 180 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_25"
+	"width" "64"
+	"origin" "239.252 31.9049 16"
+	editor
+	{
+		"color" "242 251 0"
+		"groupid" "1276"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1299"
+	"classname" "vgui_movie_display"
+	"angles" "0 180 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_2"
+	"width" "64"
+	"origin" "239.252 31.9049 144"
+	editor
+	{
+		"color" "242 251 0"
+		"groupid" "1276"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1301"
+	"classname" "vgui_movie_display"
+	"angles" "0 195 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_1"
+	"width" "64"
+	"origin" "223.148 92.0052 144"
+	editor
+	{
+		"color" "242 251 0"
+		"groupid" "1276"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1303"
+	"classname" "vgui_movie_display"
+	"angles" "0 195 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_24"
+	"width" "64"
+	"origin" "223.148 92.0052 16"
+	editor
+	{
+		"color" "242 251 0"
+		"groupid" "1276"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1305"
+	"classname" "vgui_movie_display"
+	"angles" "0 210 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_31"
+	"width" "64"
+	"origin" "191.247 147.259 16"
+	editor
+	{
+		"color" "242 251 0"
+		"groupid" "1276"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1307"
+	"classname" "vgui_movie_display"
+	"angles" "0 225 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_30"
+	"width" "64"
+	"origin" "147.251 191.255 16"
+	editor
+	{
+		"color" "242 251 0"
+		"groupid" "1276"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1309"
+	"classname" "vgui_movie_display"
+	"angles" "0 240 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_29"
+	"width" "64"
+	"origin" "91.997 223.156 16"
+	editor
+	{
+		"color" "242 251 0"
+		"groupid" "1276"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1311"
+	"classname" "vgui_movie_display"
+	"angles" "0 255 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_28"
+	"width" "64"
+	"origin" "31.8967 239.26 16"
+	editor
+	{
+		"color" "242 251 0"
+		"groupid" "1276"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1313"
+	"classname" "vgui_movie_display"
+	"angles" "0 270 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_27"
+	"width" "64"
+	"origin" "-31.9049 239.26 16"
+	editor
+	{
+		"color" "242 251 0"
+		"groupid" "1276"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1315"
+	"classname" "vgui_movie_display"
+	"angles" "0 285 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_26"
+	"width" "64"
+	"origin" "-92.0052 223.156 16"
+	editor
+	{
+		"color" "242 251 0"
+		"groupid" "1276"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1317"
+	"classname" "vgui_movie_display"
+	"angles" "0 300 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_25"
+	"width" "64"
+	"origin" "-147.259 191.255 16"
+	editor
+	{
+		"color" "242 251 0"
+		"groupid" "1276"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1319"
+	"classname" "vgui_movie_display"
+	"angles" "0 315 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_24"
+	"width" "64"
+	"origin" "-191.255 147.259 16"
+	editor
+	{
+		"color" "242 251 0"
+		"groupid" "1276"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1321"
+	"classname" "vgui_movie_display"
+	"angles" "0 330 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_31"
+	"width" "64"
+	"origin" "-223.156 92.0052 16"
+	editor
+	{
+		"color" "242 251 0"
+		"groupid" "1276"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1323"
+	"classname" "vgui_movie_display"
+	"angles" "0 345 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_30"
+	"width" "64"
+	"origin" "-239.26 31.9049 16"
+	editor
+	{
+		"color" "242 251 0"
+		"groupid" "1276"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1325"
+	"classname" "vgui_movie_display"
+	"angles" "0 0 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_29"
+	"width" "64"
+	"origin" "-239.26 -31.8967 16"
+	editor
+	{
+		"color" "242 251 0"
+		"groupid" "1276"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1327"
+	"classname" "vgui_movie_display"
+	"angles" "0 15 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_28"
+	"width" "64"
+	"origin" "-223.156 -91.997 16"
+	editor
+	{
+		"color" "242 251 0"
+		"groupid" "1276"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1329"
+	"classname" "vgui_movie_display"
+	"angles" "0 30 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_27"
+	"width" "64"
+	"origin" "-191.255 -147.251 16"
+	editor
+	{
+		"color" "242 251 0"
+		"groupid" "1276"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1331"
+	"classname" "vgui_movie_display"
+	"angles" "0 45 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_26"
+	"width" "64"
+	"origin" "-147.259 -191.247 16"
+	editor
+	{
+		"color" "242 251 0"
+		"groupid" "1276"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1333"
+	"classname" "vgui_movie_display"
+	"angles" "0 60 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_25"
+	"width" "64"
+	"origin" "-92.0052 -223.148 16"
+	editor
+	{
+		"color" "242 251 0"
+		"groupid" "1276"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1335"
+	"classname" "vgui_movie_display"
+	"angles" "0 75 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_24"
+	"width" "64"
+	"origin" "-31.9049 -239.252 16"
+	editor
+	{
+		"color" "242 251 0"
+		"groupid" "1276"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1337"
+	"classname" "vgui_movie_display"
+	"angles" "0 210 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_8"
+	"width" "64"
+	"origin" "191.247 147.259 144"
+	editor
+	{
+		"color" "242 251 0"
+		"groupid" "1276"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1339"
+	"classname" "vgui_movie_display"
+	"angles" "0 225 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_7"
+	"width" "64"
+	"origin" "147.251 191.255 144"
+	editor
+	{
+		"color" "242 251 0"
+		"groupid" "1276"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1341"
+	"classname" "vgui_movie_display"
+	"angles" "0 240 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_6"
+	"width" "64"
+	"origin" "91.997 223.156 144"
+	editor
+	{
+		"color" "242 251 0"
+		"groupid" "1276"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1343"
+	"classname" "vgui_movie_display"
+	"angles" "0 255 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_5"
+	"width" "64"
+	"origin" "31.8967 239.26 144"
+	editor
+	{
+		"color" "242 251 0"
+		"groupid" "1276"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1345"
+	"classname" "vgui_movie_display"
+	"angles" "0 270 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_4"
+	"width" "64"
+	"origin" "-31.9049 239.26 144"
+	editor
+	{
+		"color" "242 251 0"
+		"groupid" "1276"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1347"
+	"classname" "vgui_movie_display"
+	"angles" "0 285 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_3"
+	"width" "64"
+	"origin" "-92.0052 223.156 144"
+	editor
+	{
+		"color" "242 251 0"
+		"groupid" "1276"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1349"
+	"classname" "vgui_movie_display"
+	"angles" "0 300 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_2"
+	"width" "64"
+	"origin" "-147.259 191.255 144"
+	editor
+	{
+		"color" "242 251 0"
+		"groupid" "1276"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1351"
+	"classname" "vgui_movie_display"
+	"angles" "0 315 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_1"
+	"width" "64"
+	"origin" "-191.255 147.259 144"
+	editor
+	{
+		"color" "242 251 0"
+		"groupid" "1276"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1353"
+	"classname" "vgui_movie_display"
+	"angles" "0 330 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_8"
+	"width" "64"
+	"origin" "-223.156 92.0052 144"
+	editor
+	{
+		"color" "242 251 0"
+		"groupid" "1276"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1355"
+	"classname" "vgui_movie_display"
+	"angles" "0 345 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_7"
+	"width" "64"
+	"origin" "-239.26 31.9049 144"
+	editor
+	{
+		"color" "242 251 0"
+		"groupid" "1276"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1357"
+	"classname" "vgui_movie_display"
+	"angles" "0 0 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_6"
+	"width" "64"
+	"origin" "-239.26 -31.8967 144"
+	editor
+	{
+		"color" "242 251 0"
+		"groupid" "1276"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1359"
+	"classname" "vgui_movie_display"
+	"angles" "0 15 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_5"
+	"width" "64"
+	"origin" "-223.156 -91.997 144"
+	editor
+	{
+		"color" "242 251 0"
+		"groupid" "1276"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1361"
+	"classname" "vgui_movie_display"
+	"angles" "0 30 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_4"
+	"width" "64"
+	"origin" "-191.255 -147.251 144"
+	editor
+	{
+		"color" "242 251 0"
+		"groupid" "1276"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1363"
+	"classname" "vgui_movie_display"
+	"angles" "0 45 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_3"
+	"width" "64"
+	"origin" "-147.259 -191.247 144"
+	editor
+	{
+		"color" "242 251 0"
+		"groupid" "1276"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1365"
+	"classname" "vgui_movie_display"
+	"angles" "0 60 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_2"
+	"width" "64"
+	"origin" "-92.0052 -223.148 144"
+	editor
+	{
+		"color" "242 251 0"
+		"groupid" "1276"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1367"
+	"classname" "vgui_movie_display"
+	"angles" "0 75 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_1"
+	"width" "64"
+	"origin" "-31.9049 -239.252 144"
+	editor
+	{
+		"color" "242 251 0"
+		"groupid" "1276"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1369"
+	"classname" "logic_auto"
+	"spawnflags" "1"
+	connections
+	{
+		"OnMapSpawn" "@video_masterEnable0-1"
+	}
+	"origin" "-16 576 8"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 6500]"
+	}
+}
+entity
+{
+	"id" "1371"
+	"classname" "vgui_movie_display"
+	"angles" "0 0 0"
+	"groupname" "signs"
+	"height" "0.01"
+	"looping" "1"
+	"moviefilename" "$screen_video"
+	"stretch" "1"
+	"targetname" "@video_master"
+	"width" "0.01"
+	"origin" "0 576 8"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1373"
+	"classname" "func_instance_parms"
+	"parm1" "$screen_video string media/entry_emergency.bik"
+	"origin" "16 576 8.6422"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 6500]"
+	}
+}
+entity
+{
+	"id" "1375"
+	"classname" "func_instance_io_proxy"
+	"targetname" "proxy"
+	connections
+	{
+		"OnProxyRelay" "sign_trigger_onTrigger0-1"
+		"OnProxyRelay" "sign_trigger_offTrigger0-1"
+	}
+	"origin" "-152 -8 32"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1377"
+	"classname" "logic_relay"
+	"spawnflags" "0"
+	"StartDisabled" "0"
+	"targetname" "sign_trigger_on"
+	connections
+	{
+		"OnTrigger" "sign_1Enable0-1"
+		"OnTrigger" "sign_2Enable0-1"
+		"OnTrigger" "sign_3Enable0-1"
+		"OnTrigger" "sign_4Enable0-1"
+		"OnTrigger" "sign_5Enable0-1"
+		"OnTrigger" "sign_6Enable0-1"
+		"OnTrigger" "sign_7Enable0-1"
+		"OnTrigger" "sign_8Enable0-1"
+		"OnTrigger" "sign_24Enable0-1"
+		"OnTrigger" "sign_25Enable0-1"
+		"OnTrigger" "sign_26Enable0-1"
+		"OnTrigger" "sign_27Enable0-1"
+		"OnTrigger" "sign_28Enable0-1"
+		"OnTrigger" "sign_29Enable0-1"
+		"OnTrigger" "sign_30Enable0-1"
+		"OnTrigger" "sign_31Enable0-1"
+		"OnTrigger" "sign_1SetUMax0.1250-1"
+		"OnTrigger" "sign_1SetVMax0.50-1"
+		"OnTrigger" "sign_24SetVMax10-1"
+		"OnTrigger" "sign_24SetVMin0.50-1"
+		"OnTrigger" "sign_24SetUMax0.1250-1"
+		"OnTrigger" "sign_1SetUseCustomUVs10-1"
+		"OnTrigger" "sign_24SetUseCustomUVs10-1"
+		"OnTrigger" "sign_31SetUseCustomUVs10-1"
+		"OnTrigger" "sign_30SetUseCustomUVs10-1"
+		"OnTrigger" "sign_29SetUseCustomUVs10-1"
+		"OnTrigger" "sign_28SetUseCustomUVs10-1"
+		"OnTrigger" "sign_27SetUseCustomUVs10-1"
+		"OnTrigger" "sign_26SetUseCustomUVs10-1"
+		"OnTrigger" "sign_25SetUseCustomUVs10-1"
+		"OnTrigger" "sign_8SetUseCustomUVs10-1"
+		"OnTrigger" "sign_7SetUseCustomUVs10-1"
+		"OnTrigger" "sign_6SetUseCustomUVs10-1"
+		"OnTrigger" "sign_5SetUseCustomUVs10-1"
+		"OnTrigger" "sign_4SetUseCustomUVs10-1"
+		"OnTrigger" "sign_3SetUseCustomUVs10-1"
+		"OnTrigger" "sign_2SetUseCustomUVs10-1"
+		"OnTrigger" "sign_2SetUMin0.1250-1"
+		"OnTrigger" "sign_2SetUMax0.250-1"
+		"OnTrigger" "sign_2SetVMax0.50-1"
+		"OnTrigger" "sign_25SetVMax10-1"
+		"OnTrigger" "sign_25SetUMax0.250-1"
+		"OnTrigger" "sign_25SetUMin0.1250-1"
+		"OnTrigger" "sign_25SetVMin0.50-1"
+		"OnTrigger" "sign_26SetVMin0.50-1"
+		"OnTrigger" "sign_26SetUMin0.250-1"
+		"OnTrigger" "sign_26SetUMax0.3750-1"
+		"OnTrigger" "sign_26SetVMax10-1"
+		"OnTrigger" "sign_3SetVMax0.50-1"
+		"OnTrigger" "sign_3SetUMax0.3750-1"
+		"OnTrigger" "sign_3SetUMin0.250-1"
+		"OnTrigger" "sign_27SetVMin0.50-1"
+		"OnTrigger" "sign_27SetUMin0.3750-1"
+		"OnTrigger" "sign_27SetUMax0.50-1"
+		"OnTrigger" "sign_27SetVMax10-1"
+		"OnTrigger" "sign_4SetVMax0.50-1"
+		"OnTrigger" "sign_4SetUMax0.50-1"
+		"OnTrigger" "sign_4SetUMin0.3750-1"
+		"OnTrigger" "sign_28SetVMin0.50-1"
+		"OnTrigger" "sign_28SetUMin0.50-1"
+		"OnTrigger" "sign_28SetUMax0.6250-1"
+		"OnTrigger" "sign_28SetVMax10-1"
+		"OnTrigger" "sign_5SetVMax0.50-1"
+		"OnTrigger" "sign_5SetUMax0.6250-1"
+		"OnTrigger" "sign_5SetUMin0.50-1"
+		"OnTrigger" "sign_29SetVMin0.50-1"
+		"OnTrigger" "sign_29SetUMin0.6250-1"
+		"OnTrigger" "sign_29SetUMax0.750.75-1"
+		"OnTrigger" "sign_29SetVMax10-1"
+		"OnTrigger" "sign_6SetVMax0.50-1"
+		"OnTrigger" "sign_6SetUMax0.750-1"
+		"OnTrigger" "sign_6SetUMin0.6250-1"
+		"OnTrigger" "sign_30SetVMin0.50-1"
+		"OnTrigger" "sign_30SetUMin0.750-1"
+		"OnTrigger" "sign_30SetUMax0.8750-1"
+		"OnTrigger" "sign_30SetVMax10-1"
+		"OnTrigger" "sign_7SetVMax0.50-1"
+		"OnTrigger" "sign_7SetUMax0.8750-1"
+		"OnTrigger" "sign_7SetUMin0.750-1"
+		"OnTrigger" "sign_31SetVMin0.50-1"
+		"OnTrigger" "sign_31SetUMin0.8750-1"
+		"OnTrigger" "sign_31SetUMax10-1"
+		"OnTrigger" "sign_31SetVMax10-1"
+		"OnTrigger" "sign_8SetVMax0.50-1"
+		"OnTrigger" "sign_8SetUMax10-1"
+		"OnTrigger" "sign_8SetUMin0.8750-1"
+	}
+	"origin" "-152 -40 32"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 3000]"
+	}
+}
+entity
+{
+	"id" "1379"
+	"classname" "logic_relay"
+	"spawnflags" "0"
+	"StartDisabled" "0"
+	"targetname" "sign_trigger_off"
+	connections
+	{
+		"OnTrigger" "sign_31Disable0-1"
+		"OnTrigger" "sign_30Disable0-1"
+		"OnTrigger" "sign_29Disable0-1"
+		"OnTrigger" "sign_28Disable0-1"
+		"OnTrigger" "sign_27Disable0-1"
+		"OnTrigger" "sign_26Disable0-1"
+		"OnTrigger" "sign_25Disable0-1"
+		"OnTrigger" "sign_24Disable0-1"
+		"OnTrigger" "sign_8Disable0-1"
+		"OnTrigger" "sign_7Disable0-1"
+		"OnTrigger" "sign_6Disable0-1"
+		"OnTrigger" "sign_5Disable0-1"
+		"OnTrigger" "sign_4Disable0-1"
+		"OnTrigger" "sign_3Disable0-1"
+		"OnTrigger" "sign_2Disable0-1"
+		"OnTrigger" "sign_1Disable0-1"
+	}
+	"origin" "-152 -24 32"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+cameras
+{
+	"activecamera" "-1"
+}
+cordons
+{
+	"active" "0"
+}

@@ -1,0 +1,488 @@
+versioninfo
+{
+	"editorversion" "400"
+	"editorbuild" "8419"
+	"mapversion" "5"
+	"formatversion" "100"
+	"prefab" "0"
+}
+visgroups
+{
+}
+viewsettings
+{
+	"bSnapToGrid" "1"
+	"bShowGrid" "1"
+	"bShowLogicalGrid" "0"
+	"nGridSpacing" "16"
+	"bShow3DGrid" "0"
+}
+world
+{
+	"id" "1"
+	"mapversion" "5"
+	"classname" "worldspawn"
+	"detailmaterial" "detail/detailsprites"
+	"detailvbsp" "detail.vbsp"
+	"maxblobcount" "250"
+	"maxpropscreenwidth" "-1"
+	"skyname" "sky_black_nofog"
+}
+entity
+{
+	"id" "2"
+	"classname" "vgui_movie_display"
+	"angles" "0 90 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_28"
+	"width" "64"
+	"origin" "-128 0.0337517 -64"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "4"
+	"classname" "vgui_movie_display"
+	"angles" "0 90 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_2"
+	"width" "64"
+	"origin" "64 0.0337517 64"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "6"
+	"classname" "vgui_movie_display"
+	"angles" "0 90 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_3"
+	"width" "64"
+	"origin" "0 0.0337517 64"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "8"
+	"classname" "vgui_movie_display"
+	"angles" "0 90 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_4"
+	"width" "64"
+	"origin" "-64 0.0337517 64"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "10"
+	"classname" "vgui_movie_display"
+	"angles" "0 90 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_5"
+	"width" "64"
+	"origin" "-128 0.0337517 64"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "12"
+	"classname" "vgui_movie_display"
+	"angles" "0 90 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_6"
+	"width" "64"
+	"origin" "-192 0.0337517 64"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "14"
+	"classname" "vgui_movie_display"
+	"angles" "0 90 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_24"
+	"width" "64"
+	"origin" "128 0.0337517 -64"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "16"
+	"classname" "vgui_movie_display"
+	"angles" "0 90 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_25"
+	"width" "64"
+	"origin" "64 0.0337517 -64"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "18"
+	"classname" "vgui_movie_display"
+	"angles" "0 90 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_26"
+	"width" "64"
+	"origin" "0 0.0337517 -64"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "20"
+	"classname" "vgui_movie_display"
+	"angles" "0 90 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_27"
+	"width" "64"
+	"origin" "-64 0.0337517 -64"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "22"
+	"classname" "vgui_movie_display"
+	"angles" "0 90 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_29"
+	"width" "64"
+	"origin" "-192 0.0337517 -64"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "24"
+	"classname" "vgui_movie_display"
+	"angles" "0 90 0"
+	"forcedslave" "1"
+	"groupname" "signs"
+	"height" "128"
+	"looping" "1"
+	"moviefilename" "media/"
+	"stretch" "1"
+	"targetname" "sign_1"
+	"width" "64"
+	"origin" "128 0.0337517 64"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "26"
+	"classname" "logic_auto"
+	"spawnflags" "1"
+	connections
+	{
+		"OnMapSpawn" "video_masterEnable0-1"
+		"OnMapSpawn" "sign_1SetUMax0.1660-1"
+		"OnMapSpawn" "sign_1SetVMax0.50-1"
+		"OnMapSpawn" "sign_24SetVMax10-1"
+		"OnMapSpawn" "sign_24SetVMin0.50-1"
+		"OnMapSpawn" "sign_24SetUMax0.1660-1"
+		"OnMapSpawn" "sign_1SetUseCustomUVs10-1"
+		"OnMapSpawn" "sign_24SetUseCustomUVs10-1"
+		"OnMapSpawn" "sign_29SetUseCustomUVs10-1"
+		"OnMapSpawn" "sign_28SetUseCustomUVs10-1"
+		"OnMapSpawn" "sign_27SetUseCustomUVs10-1"
+		"OnMapSpawn" "sign_26SetUseCustomUVs10-1"
+		"OnMapSpawn" "sign_25SetUseCustomUVs10-1"
+		"OnMapSpawn" "sign_6SetUseCustomUVs10-1"
+		"OnMapSpawn" "sign_5SetUseCustomUVs10-1"
+		"OnMapSpawn" "sign_4SetUseCustomUVs10-1"
+		"OnMapSpawn" "sign_3SetUseCustomUVs10-1"
+		"OnMapSpawn" "sign_2SetUseCustomUVs10-1"
+		"OnMapSpawn" "sign_2SetUMin0.1660-1"
+		"OnMapSpawn" "sign_2SetUMax0.3320-1"
+		"OnMapSpawn" "sign_2SetVMax0.50-1"
+		"OnMapSpawn" "sign_25SetVMax10-1"
+		"OnMapSpawn" "sign_25SetUMax0.3320-1"
+		"OnMapSpawn" "sign_25SetUMin0.1660-1"
+		"OnMapSpawn" "sign_25SetVMin0.50-1"
+		"OnMapSpawn" "sign_26SetVMin0.50-1"
+		"OnMapSpawn" "sign_26SetUMin0.3320-1"
+		"OnMapSpawn" "sign_26SetUMax0.4980-1"
+		"OnMapSpawn" "sign_26SetVMax10-1"
+		"OnMapSpawn" "sign_3SetVMax0.50-1"
+		"OnMapSpawn" "sign_3SetUMax0.4980-1"
+		"OnMapSpawn" "sign_3SetUMin0.3320-1"
+		"OnMapSpawn" "sign_27SetVMin0.50-1"
+		"OnMapSpawn" "sign_27SetUMin0.4980-1"
+		"OnMapSpawn" "sign_27SetUMax0.6640-1"
+		"OnMapSpawn" "sign_27SetVMax10-1"
+		"OnMapSpawn" "sign_4SetVMax0.50-1"
+		"OnMapSpawn" "sign_4SetUMax0.6640-1"
+		"OnMapSpawn" "sign_4SetUMin0.4980-1"
+		"OnMapSpawn" "sign_28SetVMin0.50-1"
+		"OnMapSpawn" "sign_28SetUMin0.6640-1"
+		"OnMapSpawn" "sign_28SetUMax0.830-1"
+		"OnMapSpawn" "sign_28SetVMax10-1"
+		"OnMapSpawn" "sign_5SetVMax0.50-1"
+		"OnMapSpawn" "sign_5SetUMax0.830-1"
+		"OnMapSpawn" "sign_5SetUMin0.6640-1"
+		"OnMapSpawn" "sign_29SetVMin0.50-1"
+		"OnMapSpawn" "sign_29SetUMin0.830-1"
+		"OnMapSpawn" "sign_29SetUMax0.9960.75-1"
+		"OnMapSpawn" "sign_29SetVMax10-1"
+		"OnMapSpawn" "sign_6SetVMax0.50-1"
+		"OnMapSpawn" "sign_6SetUMax0.9960-1"
+		"OnMapSpawn" "sign_6SetUMin0.830-1"
+	}
+	"origin" "128 31.9828 -64"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 3000]"
+	}
+}
+entity
+{
+	"id" "28"
+	"classname" "logic_relay"
+	"spawnflags" "0"
+	"StartDisabled" "0"
+	"targetname" "signs_on"
+	connections
+	{
+		"OnTrigger" "sign_1Enable0-1"
+		"OnTrigger" "sign_2Enable0-1"
+		"OnTrigger" "sign_3Enable0-1"
+		"OnTrigger" "sign_4Enable0-1"
+		"OnTrigger" "sign_5Enable0-1"
+		"OnTrigger" "sign_6Enable0-1"
+		"OnTrigger" "sign_24Enable0-1"
+		"OnTrigger" "sign_25Enable0-1"
+		"OnTrigger" "sign_26Enable0-1"
+		"OnTrigger" "sign_27Enable0-1"
+		"OnTrigger" "sign_28Enable0-1"
+		"OnTrigger" "sign_29Enable0-1"
+	}
+	"origin" "112 31.9828 -64"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 3000]"
+	}
+}
+entity
+{
+	"id" "437"
+	"classname" "func_instance_io_proxy"
+	"targetname" "proxy"
+	connections
+	{
+		"OnProxyRelay" "signs_onTrigger0-1"
+		"OnProxyRelay" "signs_offTrigger0-1"
+	}
+	"origin" "80 32 -64"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 3000]"
+	}
+}
+entity
+{
+	"id" "450"
+	"classname" "func_instance_parms"
+	"parm1" "$movie_filename string media/entry_emergency.bik"
+	"origin" "64 32 -64"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 3000]"
+	}
+}
+entity
+{
+	"id" "459"
+	"classname" "vgui_movie_display"
+	"angles" "0 0 0"
+	"groupname" "signs"
+	"height" "0.1"
+	"looping" "1"
+	"moviefilename" "$movie_filename"
+	"stretch" "1"
+	"targetname" "video_master"
+	"width" "0.1"
+	"origin" "0 -16 0"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "490"
+	"classname" "logic_relay"
+	"spawnflags" "0"
+	"StartDisabled" "0"
+	"targetname" "signs_off"
+	connections
+	{
+		"OnTrigger" "sign_1Disable0-1"
+		"OnTrigger" "sign_2Disable0-1"
+		"OnTrigger" "sign_3Disable0-1"
+		"OnTrigger" "sign_4Disable0-1"
+		"OnTrigger" "sign_5Disable0-1"
+		"OnTrigger" "sign_6Disable0-1"
+		"OnTrigger" "sign_24Disable0-1"
+		"OnTrigger" "sign_25Disable0-1"
+		"OnTrigger" "sign_26Disable0-1"
+		"OnTrigger" "sign_27Disable0-1"
+		"OnTrigger" "sign_28Disable0-1"
+		"OnTrigger" "sign_29Disable0-1"
+	}
+	"origin" "96 32 -64"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 3000]"
+	}
+}
+cameras
+{
+	"activecamera" "-1"
+}
+cordons
+{
+	"active" "0"
+}
