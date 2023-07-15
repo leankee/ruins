@@ -1,0 +1,19 @@
+# Ignore .vmx
+
+*.vmx
+
+# Ignore .log
+
+*.log
+
+# Ignore .bsp
+
+*.bsp
+
+# Ignore .prt
+
+*.prt
+
+#Ignore .lin
+
+*.lin
