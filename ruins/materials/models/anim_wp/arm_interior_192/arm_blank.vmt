@@ -1,0 +1,5 @@
+VertexlitGeneric
+{
+$basetexture "skybox/br_stars_blank"
+$alphatest 1
+}

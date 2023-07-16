@@ -1,0 +1,9 @@
+VertexlitGeneric
+{
+$basetexture "models\props\portal_door\portal_door_dirty"
+$bumpmap	"models\props\portal_door\portal_door_dirty_normal"
+$phong 1
+$phongexponent 128
+$phongboost "8"
+$phongfresnelranges "[.3 .6 4]"
+}

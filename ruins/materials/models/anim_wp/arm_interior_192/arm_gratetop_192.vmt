@@ -1,0 +1,15 @@
+VertexlitGeneric
+{
+$basetexture "Metal/metalgrate018"
+$basetexturetransform	"center .5 .5 scale 3 3 rotate 0 translate 0 0"
+"%compilepassbullets" 1
+$surfaceprop metalgrate
+$AlphaTest 1
+$AlphaTestReference "0.3"
+$AllowAlphaToCoverage 1
+"%nopaint" 1
+
+
+
+
+}

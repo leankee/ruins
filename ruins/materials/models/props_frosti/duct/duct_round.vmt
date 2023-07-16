@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	$basetexture		"models\props_frosti\duct\duct_round_diffuse"
+	$bumpmap		"models\props_frosti\duct\duct_round_bump"
+	$surfaceprop		"metal"
+
+	$basemapalphaphongmask	"1"
+	$phong			"1"
+	$phongboost		"3"
+	$phongexponent		"20"
+	$phongfresnelranges	"[0.8 0.8 1]"
+	$phongtint		"{160 190 231}"
+}
