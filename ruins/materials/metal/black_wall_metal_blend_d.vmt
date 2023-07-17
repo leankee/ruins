@@ -1,0 +1,35 @@
+WorldVertexTransition
+{
+$basetexture "metal/black_wall_metal_002d"
+$basetexture2 "metal/black_wall_metal_005d"
+$surfaceprop metal
+$surfaceprop2 metal
+"%noportal" 1
+{
+$blendmodulatetexture "custom/materials/metal/black_wall_metal_002d_blend"
+$bumpmap "metal/black_wall_metal_002d_height-ssbump"
+$bumpmap2 "metal/black_wall_metal_005d_height-ssbump"
+$reflectivity "[ 0.6 0.6 0.6 ]" 
+$ssbump 1
+$ssbumpmathfix 1
+}
+{
+$envmap "metal/black_wall_envmap_002d"
+hdr
+
+$envmap "metal/black_wall_envmap_002d_hdr"
+}
+{
+$envmapcontrast 1
+$envmapsaturation .2
+$envmaptint "[.15 .15 .15 ]"
+$normalmapalphaenvmapmask 1
+$envmaplightscale .6
+
+$detail "detail/detail_tile"
+$detail2 "detail/detail_black_wall_metal_005"
+$detailblendfactor .3
+$detailblendmode 7
+}
+}
+
