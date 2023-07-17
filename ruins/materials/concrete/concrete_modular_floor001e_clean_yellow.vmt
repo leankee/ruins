@@ -1,0 +1,10 @@
+LightMappedGeneric
+{
+$basetexture "concrete/concrete_modular_floor001e_clean"
+$surfaceprop default
+$bumpmap "concrete/concrete_modular_floor001e_normal"
+"%keywords" portal2
+"%noportal" 1
+$color "[.6 .6 0.4]"
+
+}
