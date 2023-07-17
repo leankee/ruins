@@ -5,7 +5,7 @@ You will face interesting puzzles, explore the consequences of the destruction c
 You assume the role of one of the test subjects who survived after the Relaxation Center shutdown. Your goal is to escape from the Enrichment Center, and to achieve it you will have to go through a testing track that shows the gradual destruction of Aperture Science after the death of GLaDOS.
 ## How to work with it
 ### Installation
-First of all you have to install [GithubDesktop](https://desktop.github.com/) and clone repository to your Portal 2 directory:
+First of all you have to install [Github Desktop](https://desktop.github.com/) and clone repository to your Portal 2 directory:
 ```
 <Steam install location>/steamapps/common/Portal 2/
 ```
