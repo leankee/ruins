@@ -64,7 +64,7 @@ This repository contains the following directories:
 - `docs` - contains documentation files.
 
 The `maps` directory of `sdk_content` contains following:
-- `examples` - contains map examples, such as asset park, style guide and etc;
+- `examples` - contains map examples, such as style examples, asset park and etc;
 - `instances` - contains intances/prefabs for maps;
 - `puzzlemaker` - contains puzzle maps exported from [Portal 2 Puzzle Maker](https://developer.valvesoftware.com/wiki/Portal_2_Puzzle_Maker);
 - `ruins` - contains main maps sources.
