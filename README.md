@@ -68,3 +68,5 @@ The `maps` directory of `sdk_content` contains following:
 - `instances` - contains intances/prefabs for maps;
 - `puzzlemaker` - contains puzzle maps exported from [Portal 2 Puzzle Maker](https://developer.valvesoftware.com/wiki/Portal_2_Puzzle_Maker);
 - `ruins` - contains main maps sources.
+## Documentation
+- [Style guide](docs/CONTRIBUTING.md)
