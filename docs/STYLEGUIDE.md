@@ -6,6 +6,10 @@ After the death of Glados, the laboratory began to collapse. This cause holes an
 
 ### Assets
 
+#### Models
+
+#### Textures
+
 ### Map 1
 
 ![image](https://github.com/leankee/ruins/assets/59232816/4f27bb1c-f50a-408f-aa02-5eb80c6a7cc3)
@@ -25,6 +29,12 @@ After the death of Glados, the laboratory began to collapse. This cause holes an
 
 ## Part 2: Rust
 
+### Assets
+
+#### Models
+
+#### Textures
+
 ### Map 1
 ![image](https://github.com/leankee/ruins/assets/59232816/158a2c08-93d1-46a1-8de5-e034dd87f842)
 
@@ -41,6 +51,12 @@ After the death of Glados, the laboratory began to collapse. This cause holes an
 #### References
 
 ##  Part 3: Plants
+
+### Assets
+
+#### Models
+
+#### Textures
 
 ### Map 1
 
