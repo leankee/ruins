@@ -1,39 +1,28 @@
 # Style Guide
-This document describes the style of this mappack. The main idea of the style is to show the gradual destruction of Aperture Science. The further we go, the more destruction we can see. The style is divided into 3 parts. Each part has 3 maps in it.
+This document describes the style of this mappack. The main idea of the style is to show the gradual destruction of Aperture Science. The further we go, the more destruction we can see. This style is divided into 3 stages. Each stage has 3 maps in it.
 
-## Part 1: Сracks
+## Stage 1: Сracks
 After the death of Glados, the laboratory began to collapse. This cause holes and cracks to appear in test chambers.
 
-### Assets
-
-#### Models
-
-#### Textures
-
 ### Map 1
-
+Mostly clean style with few cracks here and there.
 ![image](https://github.com/leankee/ruins/assets/59232816/4f27bb1c-f50a-408f-aa02-5eb80c6a7cc3)
 
 #### References
 
 ### Map 2
-
+Cracks get bigger and appear more often
 ![image](https://github.com/leankee/ruins/assets/59232816/0af625cb-1045-4665-aa08-2f9e80d90063)
 
 #### References
 
 ### Map 3
+Cracks reach their final size. From now on, the level of destruction in all subsequent maps should be the same.
 ![image](https://github.com/leankee/ruins/assets/59232816/5b102538-2719-42f5-999a-761b7aef1446)
 
 #### References
 
-## Part 2: Rust
-
-### Assets
-
-#### Models
-
-#### Textures
+## Stage 2: Rust
 
 ### Map 1
 ![image](https://github.com/leankee/ruins/assets/59232816/158a2c08-93d1-46a1-8de5-e034dd87f842)
@@ -50,13 +39,7 @@ After the death of Glados, the laboratory began to collapse. This cause holes an
 
 #### References
 
-##  Part 3: Plants
-
-### Assets
-
-#### Models
-
-#### Textures
+##  Stage 3: Plants
 
 ### Map 1
 
