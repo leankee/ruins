@@ -25,6 +25,7 @@ Cracks reach their final size. From now on, the level of destruction in all subs
 ![image](https://github.com/leankee/ruins/assets/59232816/5b102538-2719-42f5-999a-761b7aef1446)
 
 ## Stage 2: Rust
+The closer we get to the surface, the more moisture gets into the chambers, which leads to the appearance of rust.
 
 ### References
 
@@ -34,9 +35,13 @@ Rust appears around cracks and corners.
 ![image](https://github.com/leankee/ruins/assets/59232816/158a2c08-93d1-46a1-8de5-e034dd87f842)
 
 ### Map 2
+Some places of the chambers are completely covered with rust but some places remain clean.
+
 ![image](https://github.com/leankee/ruins/assets/59232816/b8bc6cb0-885b-4beb-aa6a-4d495f0a16f8)
 
 ### Map 3
+Chambers now are completely covered with rust. 
+
 ![image](https://github.com/leankee/ruins/assets/59232816/da608f38-2eb0-4135-870a-cbeb59730242)
 
 ##  Stage 3: Plants
