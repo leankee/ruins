@@ -1,4 +1,5 @@
 ![image](https://github.com/leankee/ruins/assets/118056276/1bdfaa20-a702-49f3-a4c4-16a009f3d1df)
+---
 A repository for the Portal 2 mappack that offers an exciting journey through the ruined parts of Aperture Science.<br/>
 You will face interesting puzzles, explore the consequences of the destruction caused by GLaDOS' absence, and strive for freedom from this dark scientific realm of testing!
 ### Synopsis
