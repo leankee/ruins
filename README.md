@@ -1,8 +1,9 @@
-# Ruins
+![image](https://github.com/leankee/ruins/assets/118056276/1bdfaa20-a702-49f3-a4c4-16a009f3d1df)
+---
 A repository for the Portal 2 mappack that offers an exciting journey through the ruined parts of Aperture Science.<br/>
 You will face interesting puzzles, explore the consequences of the destruction caused by GLaDOS' absence, and strive for freedom from this dark scientific realm of testing!
 ### Synopsis
-You assume the role of one of the test subjects who survived after the Relaxation Center shutdown. Your goal is to escape from the Enrichment Center, and to achieve it you will have to go through a testing track that shows the gradual destruction of Aperture Science after the death of GLaDOS.
+You assume the role of one of the test subjects who survived after the Relaxation Center shutdown. Your goal is to escape from the Enrichment Center, and to achieve it you will have to go through a testing track that leads to the surface. As we go through it we see the gradual destruction of Aperture Science after the death of GLaDOS.
 ## How to work with it
 ### Installation
 First of all you have to install [Github Desktop](https://desktop.github.com/) and clone repository to your Portal 2 directory:
@@ -57,3 +58,16 @@ For example your `gameinfo.txt` may look like this:
 	}
 }
 ```
+### Directories
+This repository contains the following directories:
+- `ruins` - contains custom assets, such as materials, models, sounds and etc;
+- `sdk_content/maps` - contains maps sources;
+- `docs` - contains documentation files.
+
+The `maps` directory of `sdk_content` contains following:
+- `examples` - contains map examples, such as style examples, asset park and etc;
+- `instances` - contains intances/prefabs for maps;
+- `puzzlemaker` - contains puzzle maps exported from [Portal 2 Puzzle Maker](https://developer.valvesoftware.com/wiki/Portal_2_Puzzle_Maker);
+- `ruins` - contains main maps sources.
+## Documentation
+- [Design document](docs/DESIGNDOCUMENT.md)
