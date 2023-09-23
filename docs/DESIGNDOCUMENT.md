@@ -1,6 +1,7 @@
 ![image](https://github.com/leankee/ruins/assets/118056276/b09cd5ec-dd32-44b0-af67-31444fa1c474)
 ---
-**This document describes the details for “Ruins” - Portal 2 map series** [Google Docs version](https://docs.google.com/document/d/1m49_Qv4zxBfjSB8kUkDwM80a9Or7Y87aDhw5eLj8ikA)
+**This document describes the details for “Ruins” - Portal 2 map series**. <br>
+[Google Docs version](https://docs.google.com/document/d/1m49_Qv4zxBfjSB8kUkDwM80a9Or7Y87aDhw5eLj8ikA)
 # Main idea
 The first part of Portal 2 shows us how Aperture Science has recovered after years of abandonment. “Ruins” is the complete opposite. This map series will show how  Aperture Science gradually collapsed to the state in which we see it in the first act of the game.
 # Synopsis
