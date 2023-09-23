@@ -1,8 +1,8 @@
 versioninfo
 {
 	"editorversion" "400"
-	"editorbuild" "8860"
-	"mapversion" "32"
+	"editorbuild" "8864"
+	"mapversion" "35"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -73,7 +73,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "32"
+	"mapversion" "35"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -4988,122 +4988,6 @@ entity
 }
 entity
 {
-	"id" "576"
-	"classname" "info_overlay"
-	"angles" "0 180 0"
-	"BasisNormal" "0 0 1"
-	"BasisOrigin" "-48 48 8"
-	"BasisU" "-1 -8.9407e-08 0"
-	"BasisV" "8.9407e-08 -1 0"
-	"endu" "1"
-	"endv" "0"
-	"fademindist" "-1"
-	"material" "signage/overlay_button_accent"
-	"sides" "348 360"
-	"startu" "0"
-	"startv" "1"
-	"uv0" "-16 -16 0"
-	"uv1" "-16 16 0"
-	"uv2" "16 16 0"
-	"uv3" "16 -16 0"
-	"origin" "-48 48 8"
-	editor
-	{
-		"color" "80 150 225"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1500]"
-	}
-}
-entity
-{
-	"id" "567"
-	"classname" "info_overlay"
-	"angles" "0 270 0"
-	"BasisNormal" "0 0 1"
-	"BasisOrigin" "-48 -48 8"
-	"BasisU" "-4.37114e-08 -1 0"
-	"BasisV" "1 -4.37114e-08 0"
-	"endu" "1"
-	"endv" "0"
-	"fademindist" "-1"
-	"material" "signage/overlay_button_accent"
-	"sides" "293 305"
-	"startu" "0"
-	"startv" "1"
-	"uv0" "-16 -16 0"
-	"uv1" "-16 16 0"
-	"uv2" "16 16 0"
-	"uv3" "16 -16 0"
-	"origin" "-48 -48 8"
-	editor
-	{
-		"color" "80 150 225"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "559"
-	"classname" "info_overlay"
-	"angles" "0 0 0"
-	"BasisNormal" "-0 0 1"
-	"BasisOrigin" "48 -48 8"
-	"BasisU" "1 0 0"
-	"BasisV" "-0 1 -0"
-	"endu" "1"
-	"endv" "0"
-	"fademindist" "-1"
-	"material" "signage/overlay_button_accent"
-	"sides" "476 488"
-	"startu" "0"
-	"startv" "1"
-	"uv0" "-16 -16 0"
-	"uv1" "-16 16 0"
-	"uv2" "16 16 0"
-	"uv3" "16 -16 0"
-	"origin" "48 -48 8"
-	editor
-	{
-		"color" "80 150 225"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 500]"
-	}
-}
-entity
-{
-	"id" "548"
-	"classname" "info_overlay"
-	"angles" "0 90 0"
-	"BasisNormal" "0 0 1"
-	"BasisOrigin" "48 48 8"
-	"BasisU" "-4.37114e-08 1 0"
-	"BasisV" "-1 -4.37114e-08 0"
-	"endu" "1"
-	"endv" "0"
-	"fademindist" "-1"
-	"material" "signage/overlay_button_accent"
-	"sides" "427 415"
-	"startu" "0"
-	"startv" "1"
-	"uv0" "-16 -16 0"
-	"uv1" "-16 16 0"
-	"uv2" "16 16 0"
-	"uv3" "16 -16 0"
-	"origin" "48 48 8"
-	editor
-	{
-		"color" "80 150 225"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 0]"
-	}
-}
-entity
-{
 	"id" "460"
 	"classname" "func_instance_parms"
 	"parm1" "$indicator_lights string"
@@ -5140,7 +5024,7 @@ entity
 	"spawnflags" "2"
 	"startdisabled" "0"
 	"targetname" "$indicator_lights"
-	"vrad_brush_cast_shadows" "0"
+	"vrad_brush_cast_shadows" "1"
 	solid
 	{
 		"id" "443"
