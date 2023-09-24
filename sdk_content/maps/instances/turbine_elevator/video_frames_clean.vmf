@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "9672"
-	"mapversion" "227"
+	"mapversion" "228"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "227"
+	"mapversion" "228"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -94,7 +94,7 @@ entity
 		{
 			"id" "9811"
 			"plane" "(31 -239 272) (32 -243 272) (32 -243 16)"
-			"material" "ANIM_WP/FRAMEWORK/SQUAREBEAMS_RUSTY_CROP"
+			"material" "ANIM_WP/FRAMEWORK/SQUAREBEAMS_DARK_CROP"
 			"uaxis" "[-0.116837 0.99315 0 8.31009] 0.25"
 			"vaxis" "[0 0 -1 64] 0.25"
 			"rotation" "0"
@@ -170,7 +170,7 @@ entity
 		{
 			"id" "9817"
 			"plane" "(-32 -243 272) (-31 -239 272) (-31 -239 16)"
-			"material" "ANIM_WP/FRAMEWORK/SQUAREBEAMS_RUSTY_CROP"
+			"material" "ANIM_WP/FRAMEWORK/SQUAREBEAMS_DARK_CROP"
 			"uaxis" "[-0.0991196 0.995075 0 -16.0425] 0.25"
 			"vaxis" "[0 0 -1 64.0031] 0.25"
 			"rotation" "0"
@@ -212,8 +212,8 @@ cameras
 	}
 	camera
 	{
-		"position" "[-13.3378 -288.657 63.6824]"
-		"look" "[44.3329 -87.5296 -12.4721]"
+		"position" "[5.60188 -233.45 66.7238]"
+		"look" "[-168.917 -259.221 -69.1313]"
 	}
 }
 cordons
