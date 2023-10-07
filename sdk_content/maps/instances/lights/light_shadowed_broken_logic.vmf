@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8864"
-	"mapversion" "15"
+	"mapversion" "17"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -73,7 +73,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "15"
+	"mapversion" "17"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -86,11 +86,11 @@ entity
 	"id" "2"
 	"classname" "logic_timer"
 	"angles" "0 0 0"
-	"lowerrandombound" "60"
+	"lowerrandombound" "35"
 	"spawnflags" "0"
 	"startdisabled" "1"
 	"targetname" "timer_flick"
-	"upperrandombound" "90"
+	"upperrandombound" "70"
 	"userandomtime" "1"
 	connections
 	{
