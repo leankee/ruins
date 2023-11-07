@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+$basetexture "models/props/switch_4skins_skin3"
+$surfaceprop metal
+$selfillum 1
+}

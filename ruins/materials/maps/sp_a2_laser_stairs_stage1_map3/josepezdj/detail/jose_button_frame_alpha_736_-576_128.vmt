@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/JOSEPEZDJ/DETAIL/JOSE_BUTTON_FRAME_ALPHA.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/sp_a2_laser_stairs_stage1_map3/c736_-576_128"
+		"Proxies"
+		{
+		}
+	}
+}

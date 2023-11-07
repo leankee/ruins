@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/ANIM_WP/FRAMEWORK/BACKPANELS_COLOR01B_SSBUMP.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/sp_a2_laser_stairs_stage1_map3/c896_160_296"
+	}
+}

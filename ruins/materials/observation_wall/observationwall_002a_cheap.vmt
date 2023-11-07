@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+$basetexture "Concrete/observationwall_001a"
+$surfaceprop concrete
+"%keywords" portal2
+
+$color "[.95 .95 .95]"
+}

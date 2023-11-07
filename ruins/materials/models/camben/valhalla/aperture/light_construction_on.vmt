@@ -1,0 +1,15 @@
+VertexLitGeneric
+//Unlitgeneric
+{
+$baseTexture "models\Props_Lighting/light_construction_on"
+//$receiveflashlight 1
+
+//$blendtintbybasealpha 1
+$selfillum 1
+$bumpmap "models\CamBen\Valhalla\aperture/light_construction_n"
+$normalmapalphaenvmapmask 1
+$phong 1
+$phongboost 0.4
+$envmap env_cubemap
+$envmaptint "[ 0.3 0.3 0.3]"
+}

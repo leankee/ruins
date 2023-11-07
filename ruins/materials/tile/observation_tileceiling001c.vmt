@@ -1,0 +1,6 @@
+LightMappedGeneric
+{
+$basetexture "tile/observation_tileceiling001c"
+$ssbump 1
+$bumpmap "tile/observation_tileceiling001c-height-ssbump"
+}

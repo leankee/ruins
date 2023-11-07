@@ -1,0 +1,4 @@
+VertexLitGeneric
+{
+	$basetexture "models/orlando/props_backstage/wall_pipes_frame_diffuse"
+}
