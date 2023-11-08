@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+$basetexture "models/props_bts/conduit/conduit002b"
+$detail "models/props_bts/conduit/conduit_dirtydetail"
+$detailscale 1
+$detailblendfactor 1
+$color 1.2
+
+}
