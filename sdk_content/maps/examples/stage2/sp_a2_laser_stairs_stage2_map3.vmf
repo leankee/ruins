@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "9672"
-	"mapversion" "277"
+	"mapversion" "278"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -14,13 +14,13 @@ viewsettings
 	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "0"
-	"nGridSpacing" "16"
+	"nGridSpacing" "8"
 	"bShow3DGrid" "0"
 }
 world
 {
 	"id" "1"
-	"mapversion" "277"
+	"mapversion" "296"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.3.24 from sp_a2_laser_stairs"
 	"detailmaterial" "detail/detailsprites"
@@ -51968,7 +51968,7 @@ entity
 	"renderfx" "0"
 	"rendermode" "0"
 	"shadowcastdist" "0"
-	"skintype" "0"
+	"skintype" "1"
 	"solid" "6"
 	"spawnflags" "256"
 	"targetname" "cube_autospawned"
@@ -54607,7 +54607,7 @@ entity
 	"file" "instances/josepezdj/custom_prop_button.vmf"
 	"fixup_style" "0"
 	"replace01" "$button_reset_delay 2"
-	"replace02" "$button_type ???"
+	"replace02" "$button_type 1"
 	"replace03" "$play_timer_sound ???"
 	"replace04" "$prevent_fast_reset 1"
 	"targetname" "button"
@@ -54843,7 +54843,7 @@ entity
 	"$disable_autodrop" "0"
 	"$indicator_lights" "@indicators_cube"
 	"angles" "-0 0 0"
-	"file" "instances/gameplay/cube_dropper.vmf"
+	"file" "instances/gameplay/cube_dropper_shared_dirty.vmf"
 	"fixup_style" "0"
 	"replace01" "$connectioncount 1"
 	"replace02" "$cube_type 2"
@@ -54852,7 +54852,7 @@ entity
 	"replace05" "$item_fall_straight_down 1"
 	"replace06" "$indicator_lights @indicators_cube"
 	"targetname" "cubedropper"
-	"origin" "896 160 384"
+	"origin" "896 160 824"
 	editor
 	{
 		"color" "220 30 220"
@@ -73255,8 +73255,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[1387.51 -302.241 465.651]"
-		"look" "[1375.89 -290.209 731.535]"
+		"position" "[930.426 -226.634 98.5677]"
+		"look" "[962.233 -156.509 353.607]"
 	}
 }
 cordons
