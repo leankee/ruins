@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "9672"
-	"mapversion" "293"
+	"mapversion" "294"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -26,7 +26,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "293"
+	"mapversion" "296"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.3.24 from sp_a2_laser_stairs"
 	"detailmaterial" "detail/detailsprites"
@@ -25725,7 +25725,7 @@ world
 		{
 			"id" "25793"
 			"plane" "(1312 -448 0) (1408 -448 0) (1408 -704 0)"
-			"material" "METAL/BLACK_FLOOR_METAL_001C"
+			"material" "NATURE/DIRTFLOOR004C"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -85100,7 +85100,7 @@ entity
 		{
 			"id" "26110"
 			"plane" "(1408 -608 0) (1568 -608 0) (1568 -704 0)"
-			"material" "METAL/BLACK_FLOOR_METAL_001C"
+			"material" "NATURE/DIRTFLOOR004C"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -85176,7 +85176,7 @@ entity
 		{
 			"id" "26116"
 			"plane" "(1568 -640 0) (1664 -640 0) (1664 -704 0)"
-			"material" "METAL/BLACK_FLOOR_METAL_001C"
+			"material" "NATURE/DIRTFLOOR004C"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -85252,7 +85252,7 @@ entity
 		{
 			"id" "26122"
 			"plane" "(1600 -544 0) (1664 -544 0) (1664 -640 0)"
-			"material" "METAL/BLACK_FLOOR_METAL_001C"
+			"material" "NATURE/DIRTFLOOR004C"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -85860,7 +85860,7 @@ entity
 		{
 			"id" "26170"
 			"plane" "(1632 -480 0) (1664 -480 0) (1664 -544 0)"
-			"material" "METAL/BLACK_FLOOR_METAL_001C"
+			"material" "NATURE/DIRTFLOOR004C"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -89607,8 +89607,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[1485.32 -516.922 235.717]"
-		"look" "[1545.87 -522.847 -23.6595]"
+		"position" "[1473.87 -278.333 79.388]"
+		"look" "[1253.59 -422.535 120.146]"
 	}
 }
 cordons
